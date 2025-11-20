@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="2766" height="1527" alt="image" src="https://github.com/user-attachments/assets/952e5160-772a-4faa-8635-6c1698672e56" />
+
 
 # Gradient Descent Visualization
 
