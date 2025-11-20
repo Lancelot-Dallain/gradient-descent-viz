@@ -2,7 +2,7 @@
 
 An interactive 3D web application for visualizing Gradient Descent and Stochastic Gradient Descent algorithms in real-time. Watch optimization algorithms navigate complex mathematical landscapes with dynamic visualizations, real-time loss graphs, and educational parameter controls.
 
-![Gradient Descent Visualization](https://img.shields.io/badge/built%20with-Three.js-blue) ![Vite](https://img.shields.io/badge/bundled%20with-Vite-646CFF) ![License](https://img.shields.io/badge/license-MIT-green)
+![Gradient Descent Visualization](https://img.shields.io/badge/built%20with-Three.js-blue) ![Vite](https://img.shields.io/badge/bundled%20with-Vite-646CFF)
 
 ## ✨ Features
 
