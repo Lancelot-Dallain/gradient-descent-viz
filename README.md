@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Gradient Descent Visualization
 
 An interactive 3D web application for visualizing Gradient Descent and Stochastic Gradient Descent algorithms in real-time. Watch optimization algorithms navigate complex mathematical landscapes with dynamic visualizations, real-time loss graphs, and educational parameter controls.
